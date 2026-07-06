@@ -10,6 +10,7 @@ If you happened to find this repository, I highly recommend visiting the origina
 
 ## 🎮 Original Project
 https://github.com/RandomPianist/gwent-classic-v3.1
+
 https://randompianist.github.io/gwent-classic-v3.1/
 
 Thank you again, **RandomPianist**, for your amazing work and for keeping the spirit of classic Gwent alive.
